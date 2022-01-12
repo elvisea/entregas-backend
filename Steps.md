@@ -15,7 +15,7 @@ yarn init -y
 Instalar dependências de Desenvolvimento:
 
 ```bash
-yarn add prisma typescript ts-node @types/express @types/jsonwebtoken @types/bcrypt @types/node -D
+yarn add prisma typescript ts-node ts-node-dev @types/express @types/jsonwebtoken @types/bcrypt @types/node -D
 ```
 
 Instalar dependências:
